@@ -8,7 +8,7 @@ export default function App() {
       </div>
       <hr />
       <div>
-        <h3>결과</h3>
+        <h3>결과 테스트</h3>
         <p>0</p>
       </div>
     </div>
